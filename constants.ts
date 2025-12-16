@@ -1,0 +1,43 @@
+import { KanaChar } from './types';
+
+export const HIRAGANA_DATA: KanaChar[] = [
+  { char: 'あ', romaji: 'a', id: 'a' },
+  { char: 'い', romaji: 'i', id: 'i' },
+  { char: 'う', romaji: 'u', id: 'u' },
+  { char: 'え', romaji: 'e', id: 'e' },
+  { char: 'お', romaji: 'o', id: 'o' },
+  { char: 'か', romaji: 'ka', id: 'ka' },
+  { char: 'き', romaji: 'ki', id: 'ki' },
+  { char: 'く', romaji: 'ku', id: 'ku' },
+  { char: 'け', romaji: 'ke', id: 'ke' },
+  { char: 'こ', romaji: 'ko', id: 'ko' },
+  { char: 'さ', romaji: 'sa', id: 'sa' },
+  { char: 'し', romaji: 'shi', id: 'shi' },
+  { char: 'す', romaji: 'su', id: 'su' },
+  { char: 'せ', romaji: 'se', id: 'se' },
+  { char: 'そ', romaji: 'so', id: 'so' },
+  { char: 'た', romaji: 'ta', id: 'ta' },
+  { char: 'ち', romaji: 'chi', id: 'chi' },
+  { char: 'つ', romaji: 'tsu', id: 'tsu' },
+  { char: 'て', romaji: 'te', id: 'te' },
+  { char: 'と', romaji: 'to', id: 'to' },
+  { char: 'な', romaji: 'na', id: 'na' },
+  { char: 'に', romaji: 'ni', id: 'ni' },
+  { char: 'ぬ', romaji: 'nu', id: 'nu' },
+  { char: 'ね', romaji: 'ne', id: 'ne' },
+  { char: 'の', romaji: 'no', id: 'no' },
+  { char: 'は', romaji: 'ha', id: 'ha' },
+  { char: 'ひ', romaji: 'hi', id: 'hi' },
+  { char: 'ふ', romaji: 'fu', id: 'fu' },
+  { char: 'へ', romaji: 'he', id: 'he' },
+  { char: 'ほ', romaji: 'ho', id: 'ho' },
+  { char: 'ま', romaji: 'ma', id: 'ma' },
+  { char: 'み', romaji: 'mi', id: 'mi' },
+  { char: 'む', romaji: 'mu', id: 'mu' },
+  { char: 'め', romaji: 'me', id: 'me' },
+  { char: 'も', romaji: 'mo', id: 'mo' },
+];
+
+export const COLORS = {
+  primary: "#D0BB95",
+};
